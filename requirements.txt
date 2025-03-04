@@ -4,8 +4,8 @@ gym-super-mario-bros==7.4.0
 stable-baselines==2.10.2
 stable-baselines3==1.6.2
 pandas==1.2.4
-numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
-numpydoc @ file:///C:/Windows/TEMP/abs_30799058-86dd-4401-b621-d172137a4d87_ra3twm7/croots/recipe/numpydoc_1657529873713/work
+# numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
+# numpydoc @ file:///C:/Windows/TEMP/abs_30799058-86dd-4401-b621-d172137a4d87_ra3twm7/croots/recipe/numpydoc_1657529873713/work
 # efficientnet-pytorch==0.7.1
 # pytorch-lightning==1.7.7
 # torch==1.12.1+cu113
